@@ -25,7 +25,7 @@
 ---
 
 ## 📫 Контакты 
-- Telegram: [@manockov](https://t.me/Vlad_Developer)  
+- Telegram: [@Vlad_Developer](https://t.me/Vlad_Developer)  
 
 ---
 
