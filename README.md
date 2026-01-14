@@ -26,8 +26,3 @@
 
 ## 📫 Контакты 
 - Telegram: [@Vlad_Developer](https://t.me/Vlad_Developer)  
-
----
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manockovVladislav&layout=compact)
